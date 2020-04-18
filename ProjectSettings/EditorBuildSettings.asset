@@ -6,9 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Level 1.unity
+    path: Assets/Scenes/Start.unity
+    guid: 58e74cfb6b47d6342bf92aa72599fbee
+  - enabled: 1
+    path: Assets/Scenes/1 - Easy Jump.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Level 2.unity
+    path: Assets/Scenes/2 - Easy Gap.unity
     guid: 16a38a7aa32b1384a99a20a55af92cd1
+  - enabled: 1
+    path: Assets/Scenes/3 - Over Under.unity
+    guid: 0bba54dd12693e24eb300dbabff70208
+  - enabled: 1
+    path: Assets/Scenes/4 - Thin Margins.unity
+    guid: b5179986473978241b28e55fdc9d5877
+  - enabled: 1
+    path: Assets/Scenes/5 - Crushers.unity
+    guid: 6fbb15b803a43ff4ab7ba050fcdfbed1
+  - enabled: 1
+    path: Assets/Scenes/6 - Eye of the Needle.unity
+    guid: 2ae5eb37eaf3a764cb39db259e3f4502
+  - enabled: 1
+    path: Assets/Scenes/7 - Looper.unity
+    guid: 499af2dad0d4acf49b7f54b001faeb14
+  - enabled: 1
+    path: Assets/Scenes/8 - Crushems.unity
+    guid: db10ed7b7ac8445429fecb4b2f82db0a
+  - enabled: 1
+    path: Assets/Scenes/9 - Eye of the Needles.unity
+    guid: afdaff39fc7711949b52e8eb2a15a56b
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: adfa70f4cbd1cb54683781369e790f2c
   m_configObjects: {}
